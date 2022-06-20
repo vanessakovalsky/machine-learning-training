@@ -76,3 +76,7 @@ jupyter lab
 
 - [Apprendre à utiliser ML Flow](https://github.com/meteofrance/formation-mlflow/blob/master/formation_MLFlow.ipynb)
     -> [Les solutions](https://github.com/meteofrance/formation-mlflow/tree/master/solutions)
+    
+## Lien pour la feuille d'émargement
+
+https://extranet-softeam.dendreo.com/emargements/MvbmZQwGdY?deconnexion=1
