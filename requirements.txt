@@ -5,3 +5,4 @@ jupyterlab
 mlflow
 scikit-learn
 jyquickhelper
+imblearn
