@@ -76,9 +76,15 @@ jupyter lab
 
 - [Apprendre à utiliser ML Flow](https://github.com/meteofrance/formation-mlflow/blob/master/formation_MLFlow.ipynb)
     -> [Les solutions](https://github.com/meteofrance/formation-mlflow/tree/master/solutions)
+
+
+## Quelques liens intéressants supplémentaires :
+
+* https://www.kaggle.com/ 
+* https://codingcompetitions.withgoogle.com/codejam 
+* Une chaîne Youtube en français : https://www.youtube.com/c/machinelearnia (qui explique notamment les calculs dérrière chaque algorithmes)
+* Des cheatsheets (sur les algorithmes, python et pas mal d'éléments liés) : https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6 
     
 ## Lien pour la feuille d'émargement
 
-https://extranet-softeam.dendreo.com/emargements/MvbmZQwGdY?deconnexion=1
-
-https://extranet-softeam.dendreo.com/emargements/open5rZ7d7?deconnexion=1
+https://extranet-softeam.dendreo.com/emargements/Jxbo2QYXag?deconnexion=1 
