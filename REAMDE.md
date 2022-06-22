@@ -84,6 +84,13 @@ jupyter lab
 * https://codingcompetitions.withgoogle.com/codejam 
 * Une chaîne Youtube en français : https://www.youtube.com/c/machinelearnia (qui explique notamment les calculs dérrière chaque algorithmes)
 * Des cheatsheets (sur les algorithmes, python et pas mal d'éléments liés) : https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6 
+* Mooc
+    * [Explorez vos données avec des algorithmes non supervisés](https://openclassrooms.com/fr/courses/4379436-explorez-vos-donnees-avec-des-algorithmes-non-supervises )
+    * [Modélisez vos données avec les méthodes ensemblistes](https://openclassrooms.com/fr/courses/4470521-modelisez-vos-donnees-avec-les-methodes-ensemblistes)
+    * [Découvrez la science des données pour les objets connectés](https://openclassrooms.com/fr/courses/5919236-decouvrez-la-science-des-donnees-pour-les-objets-connectes)
+    * [Créer et exploiter des solutions Machine Learning avec Azure Machine Learning](https://docs.microsoft.com/fr-fr/learn/paths/build-ai-solutions-with-azure-ml-service/)
+    * [Spécialisation Machine Learning with TensorFlow on Google Cloud en Français](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-fr#courses)
+    * [Scikit-learn Python](https://inria.github.io/scikit-learn-mooc/) 
     
 ## Lien pour la feuille d'émargement
 
