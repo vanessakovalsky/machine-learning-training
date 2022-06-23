@@ -92,8 +92,4 @@ jupyter lab
     * [Spécialisation Machine Learning with TensorFlow on Google Cloud en Français](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-fr#courses)
     * [Scikit-learn Python](https://inria.github.io/scikit-learn-mooc/) 
     
-## Lien pour la feuille d'émargement
 
-https://extranet-softeam.dendreo.com/emargements/l9av2og5aG?deconnexion=1
-
-https://extranet-softeam.dendreo.com/emargements/LDdwpmj8e1?deconnexion=1
